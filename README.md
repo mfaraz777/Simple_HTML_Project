@@ -1,2 +1,3 @@
 # Simple_HTML_Project
-This is a simple HTML page
+This is a simple HTML page.
+No CSS used.
